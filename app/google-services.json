@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295121687551",
+    "project_id": "auth-mobile-123f8",
+    "storage_bucket": "auth-mobile-123f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295121687551:android:ddbd7c6d861cb8db274dca",
+        "android_client_info": {
+          "package_name": "my.edu.utar.cheehaoyang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295121687551-jgkhm3o7093c9ema9v6f1v60j1dqo9rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWEzTfFYAETQ5aTtuSpOnn4-jcny49fww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295121687551-jgkhm3o7093c9ema9v6f1v60j1dqo9rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
